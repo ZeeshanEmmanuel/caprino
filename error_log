@@ -1,0 +1,15 @@
+[08-Oct-2025 19:11:44 UTC] PHP Warning:  include(inc/states.php): Failed to open stream: No such file or directory in /home/checmniu/public_html/caprenos/alabama-liens.php on line 79
+[08-Oct-2025 19:11:44 UTC] PHP Warning:  include(): Failed opening 'inc/states.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/checmniu/public_html/caprenos/alabama-liens.php on line 79
+[08-Oct-2025 19:11:50 UTC] PHP Warning:  include(inc/states.php): Failed to open stream: No such file or directory in /home/checmniu/public_html/caprenos/alabama-liens.php on line 79
+[08-Oct-2025 19:11:50 UTC] PHP Warning:  include(): Failed opening 'inc/states.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/checmniu/public_html/caprenos/alabama-liens.php on line 79
+[08-Oct-2025 19:13:02 UTC] PHP Warning:  include(inc/states.php): Failed to open stream: No such file or directory in /home/checmniu/public_html/caprenos/alabama-liens.php on line 79
+[08-Oct-2025 19:13:02 UTC] PHP Warning:  include(): Failed opening 'inc/states.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/checmniu/public_html/caprenos/alabama-liens.php on line 79
+[08-Oct-2025 20:02:25 UTC] PHP Warning:  include(inc/states.php): Failed to open stream: No such file or directory in /home/checmniu/public_html/caprenos/alabama-liens.php on line 79
+[08-Oct-2025 20:02:25 UTC] PHP Warning:  include(): Failed opening 'inc/states.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/checmniu/public_html/caprenos/alabama-liens.php on line 79
+[09-Oct-2025 17:04:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/checmniu/public_html/caprenos/inc/config.php on line 2
+[09-Oct-2025 17:05:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/checmniu/public_html/caprenos/inc/config.php on line 2
+[09-Oct-2025 17:06:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/checmniu/public_html/caprenos/inc/config.php on line 2
+[09-Oct-2025 17:09:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/checmniu/public_html/caprenos/inc/config.php on line 2
+[09-Oct-2025 17:10:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/checmniu/public_html/caprenos/inc/config.php on line 2
+[09-Oct-2025 17:12:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/checmniu/public_html/caprenos/inc/config.php on line 2
+[09-Oct-2025 17:12:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/checmniu/public_html/caprenos/inc/config.php on line 2
