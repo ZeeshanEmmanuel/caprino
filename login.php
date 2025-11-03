@@ -1,14 +1,14 @@
-<?php include("inc/header.php"); ?>    
-    <section class="banner-row inner-banner-row">
-        <div class="container-fluid">
-            <div class="banner-inner-row">
-                <div class="banner-sec" aos="fade-up" aos-duration="1500">
-                    <h1>Login</h1>
-                </div>
+<?php include("inc/header.php"); ?>
+<section class="banner-row inner-banner-row">
+    <div class="container-fluid">
+        <div class="banner-inner-row">
+            <div class="banner-sec" aos="fade-up" aos-duration="1500">
+                <h1>Login</h1>
             </div>
         </div>
-    </section>
-    <section class="login-row">
+    </div>
+</section>
+<section class="login-row">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7 offset-lg-2">
@@ -33,5 +33,5 @@
             </div>
         </div>
     </div>
-</section> 
+</section>
 <?php include("inc/footer.php"); ?>
