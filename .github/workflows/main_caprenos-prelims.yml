@@ -57,4 +57,4 @@ jobs:
           app-name: 'caprenos-prelims'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96ED6E3EB2254EB4A640AEF548A35360 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42146669179C47A1842083169D60FABF }}
