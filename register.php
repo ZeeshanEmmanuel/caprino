@@ -15,7 +15,7 @@
                 <div class="w-sec login-sec register-sec">
                     <h2>Create Your Account</h2>
                     <!-- <p>Sign up to acess comprehensive cargo feature</p> -->
-                    <form id="registerForm">
+                    <form id="registerForm" action="javascript:;" method="POST">
                         <div class="form-group">
                             <label for="name">Name</label>
                             <input type="name" name="name" class="form-control" />

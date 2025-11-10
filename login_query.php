@@ -22,9 +22,9 @@ if ($_POST) {
         $userId = $row['id'];
         $userRole = $row['role'];
         $username = $row['name'];
-        
-        
-       
+
+
+
 
         $_SESSION['USER_ID'] = $userId;
         $_SESSION['USER_ROLE'] = $userRole;
@@ -36,4 +36,3 @@ if ($_POST) {
         echo "invalid";
     }
 }
-?>
