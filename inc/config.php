@@ -3,7 +3,7 @@ session_start();
 
 // Azure Connection
 $conn = mysqli_init();
-mysqli_ssl_set($conn, NULL, NULL, "/var/www/html/DigiCertGlobalRootCA.crt.pem", NULL, NULL);
+mysqli_ssl_set($conn, NULL, NULL, "/home/site/wwwroot/certs/DigiCertGlobalRootCA.crt.pem", NULL, NULL);
 mysqli_real_connect($conn, "caprenos-prelims-server.mysql.database.azure.com", "jaxhsfkaqs", "Frb$2ndzAxulg7KP", "caprenos-prelims-database", 3306, MYSQLI_CLIENT_SSL);
 
 
